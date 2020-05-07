@@ -1,0 +1,17 @@
+{
+  "name": "steamdb-notifications",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-notifier": "^7.0.0",
+    "open": "^7.0.3",
+    "ws": "^7.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
