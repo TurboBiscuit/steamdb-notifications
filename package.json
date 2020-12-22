@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "node-notifier": "^7.0.0",
+    "node-notifier": "^8.0.1",
     "open": "^7.0.3",
     "ws": "^7.2.5"
   },
